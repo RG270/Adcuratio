@@ -21,7 +21,11 @@ Builds the app for production to the `build` folder.
 
 ## Screenshots
 
+------------------------------------------------------------
 ![Screenshot](screenshots/1.PNG)
+------------------------------------------------------------
 ![Screenshot](screenshots/2.PNG)
+------------------------------------------------------------
 ![Screenshot](screenshots/3.PNG)
+------------------------------------------------------------
 ![Screenshot](screenshots/4.PNG)
