@@ -1,3 +1,5 @@
+This project is build using Reactjs. Also, Bootstrap is used as CSS/JS framework for page styling.
+
 ## Available Scripts
 
 In the project directory, you can run:
