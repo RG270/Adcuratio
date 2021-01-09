@@ -96,6 +96,8 @@ class Mainpage extends React.Component {
             <form onSubmit={this.handleSubmit}>
             <div className="form-group shadow p-5 login-form">
             
+            <h3 className="text-center mb-4">LOGIN</h3>
+
             <div className='mb-3'>
                 <label className="form-label">E-mail</label>
                 <input className="form-control" type="text" placeholder="Enter email"
