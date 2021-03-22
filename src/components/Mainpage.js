@@ -121,9 +121,9 @@ class Mainpage extends React.Component {
             </div>
             
             <div className='mb-3 mt-4'>
-                    <button type="submit" className="form-control btn btn-success"
-                        onClick={() => {if(this.valid)this.nextPath('/user')} } 
-                    >Login</button>
+                <button type="submit" className="form-control btn btn-success"
+                    onClick={() => {if(this.valid)this.nextPath('/user')} } 
+                >Login</button>
             </div>
             
             </div>
